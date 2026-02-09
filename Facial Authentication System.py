@@ -4,7 +4,7 @@ Requirement already satisfied: opencv-python in c:\users\vinay\anaconda3\lib\sit
 packages (4.12.0.88)
 Requirement already satisfied: imutils in c:\users\vinay\anaconda3\lib\site-packag
 es (0.5.4)
-Requirement already satisfied: Werkzeug>=2.2.2 in c:\users\akhil\anaconda3\lib\sit
+Requirement already satisfied: Werkzeug>=2.2.2 in c:\users\vinay\anaconda3\lib\sit
 e-packages (from flask) (2.2.3)
 Requirement already satisfied: Jinja2>=3.0 in c:\users\vinay\anaconda3\lib\site-pa
 ckages (from flask) (3.1.2)
